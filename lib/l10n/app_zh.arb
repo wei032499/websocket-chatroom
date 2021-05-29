@@ -1,0 +1,11 @@
+{
+    "menuIconTip": "展開選單",
+    "login": "登入",
+    "logout": "登出",
+    "setting": "設定",
+    "language": "語言",
+    "theme":"主題",
+    "theme_system": "系統預設",
+    "theme_light": "淺色",
+    "theme_dark": "深色"
+}

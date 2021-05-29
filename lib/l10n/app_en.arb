@@ -1,0 +1,14 @@
+{
+    "menuIconTip": "Open navigation menu",
+    "login": "Login",
+    "logout": "Logout",
+    "setting": "Setting",
+    "@setting": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "language": "Language",
+    "theme":"Theme",
+    "theme_system": "System",
+    "theme_light": "Light",
+    "theme_dark": "Dark"
+}
